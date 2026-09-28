@@ -177,4 +177,3 @@ RULE: ∀ offset well W within radius R:
 
 ---
 
-*Built for Smart India Hackathon 2024 | eRTMAC-NWIS Team*
