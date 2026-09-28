@@ -1,0 +1,26 @@
+/* App.css - Global application styles */
+/* All primary styling is managed via index.css + Tailwind. */
+/* This file contains app-level overrides only. */
+
+/* Global sans-serif typography */
+body, button, input, select, textarea, p, span, div, h1, h2, h3, h4, h5, h6, pre, code {
+  font-family: 'Plus Jakarta Sans', 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
+}
+
+/* Fix select dropdown appearance across browsers */
+select option {
+  background: #ffffff !important;
+  color: #0f172a !important;
+}
+
+/* Smooth page transitions */
+.page-enter {
+  opacity: 0;
+  transform: translateY(6px);
+}
+
+.page-enter-active {
+  opacity: 1;
+  transform: translateY(0);
+  transition: opacity 0.25s ease, transform 0.25s ease;
+}

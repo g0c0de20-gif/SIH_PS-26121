@@ -1,0 +1,39 @@
+{
+  "id": "DLJ-NEW-01",
+  "name": "Duliajan-New-01",
+  "lat": 27.374,
+  "lng": 95.318,
+  "spudDate": "2026-07-15",
+  "plannedTD": 4200,
+  "currentDepth": 2100,
+  "daysOnWell": 69,
+  "operator": "Oil India Limited",
+  "wellType": "Exploratory",
+  "rig": "OIL RIG-14 (BHEL BH-350)",
+  "mudType": "Water-Based KCl/Polymer",
+  "mudWeight": 1.38,
+  "rop": 8.4,
+  "wob": 18.5,
+  "torque": 12.3,
+  "rpm": 120,
+  "sppa": 2850,
+  "currentFormation": "Barail Group",
+  "casingProgram": [
+    { "size": "20\"", "depth": 180, "type": "Conductor Casing" },
+    { "size": "13⅜\"", "depth": 750, "type": "Surface Casing" },
+    { "size": "9⅝\"", "depth": 2100, "type": "Intermediate Casing (being run)" }
+  ],
+  "trajectory": [
+    { "md": 0, "tvd": 0, "displacement": 0 },
+    { "md": 500, "tvd": 498, "displacement": 12 },
+    { "md": 1000, "tvd": 995, "displacement": 28 },
+    { "md": 1500, "tvd": 1488, "displacement": 55 },
+    { "md": 2000, "tvd": 1980, "displacement": 98 },
+    { "md": 2100, "tvd": 2078, "displacement": 118 },
+    { "md": 2500, "tvd": 2465, "displacement": 160 },
+    { "md": 3000, "tvd": 2950, "displacement": 220 },
+    { "md": 3500, "tvd": 3430, "displacement": 285 },
+    { "md": 4000, "tvd": 3910, "displacement": 340 },
+    { "md": 4200, "tvd": 4095, "displacement": 368 }
+  ]
+}

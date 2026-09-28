@@ -1,0 +1,115 @@
+{
+  "DLJ-01": [
+    { "id": "f1", "name": "Girujan Clay", "topDepth": 0, "baseDepth": 780, "lithology": "Grey-green clay, silty intervals", "color": "#6B7280" },
+    { "id": "f2", "name": "Tipam Sandstone", "topDepth": 780, "baseDepth": 1820, "lithology": "Medium-grained sandstone, minor shale intercalations", "color": "#D97706" },
+    { "id": "f3", "name": "Barail Group", "topDepth": 1820, "baseDepth": 3050, "lithology": "Sandstone-shale alternation, coal stringers", "color": "#059669" },
+    { "id": "f4", "name": "Kopili Shale", "topDepth": 3050, "baseDepth": 3850, "lithology": "Dark grey calcareous shale, overpressured", "color": "#7C3AED" }
+  ],
+  "DLJ-02": [
+    { "id": "f1", "name": "Girujan Clay", "topDepth": 0, "baseDepth": 810, "lithology": "Grey-green clay, silty intervals", "color": "#6B7280" },
+    { "id": "f2", "name": "Tipam Sandstone", "topDepth": 810, "baseDepth": 1850, "lithology": "Medium-grained sandstone, minor shale intercalations", "color": "#D97706" },
+    { "id": "f3", "name": "Barail Group", "topDepth": 1850, "baseDepth": 3100, "lithology": "Sandstone-shale alternation, coal stringers", "color": "#059669" },
+    { "id": "f4", "name": "Kopili Shale", "topDepth": 3100, "baseDepth": 4100, "lithology": "Dark grey calcareous shale", "color": "#7C3AED" }
+  ],
+  "DLJ-03": [
+    { "id": "f1", "name": "Girujan Clay", "topDepth": 0, "baseDepth": 765, "lithology": "Grey-green clay, silty intervals", "color": "#6B7280" },
+    { "id": "f2", "name": "Tipam Sandstone", "topDepth": 765, "baseDepth": 1790, "lithology": "Medium-grained sandstone, minor shale intercalations", "color": "#D97706" },
+    { "id": "f3", "name": "Barail Group", "topDepth": 1790, "baseDepth": 3000, "lithology": "Sandstone-shale alternation, coal stringers", "color": "#059669" },
+    { "id": "f4", "name": "Kopili Shale", "topDepth": 3000, "baseDepth": 3650, "lithology": "Dark grey calcareous shale", "color": "#7C3AED" }
+  ],
+  "DLJ-04": [
+    { "id": "f1", "name": "Girujan Clay", "topDepth": 0, "baseDepth": 795, "lithology": "Grey-green clay, silty intervals", "color": "#6B7280" },
+    { "id": "f2", "name": "Tipam Sandstone", "topDepth": 795, "baseDepth": 1830, "lithology": "Medium-grained sandstone, minor shale intercalations", "color": "#D97706" },
+    { "id": "f3", "name": "Barail Group", "topDepth": 1830, "baseDepth": 3080, "lithology": "Sandstone-shale alternation, coal stringers", "color": "#059669" },
+    { "id": "f4", "name": "Kopili Shale", "topDepth": 3080, "baseDepth": 4200, "lithology": "Dark grey calcareous shale, overpressured", "color": "#7C3AED" }
+  ],
+  "DLJ-05": [
+    { "id": "f1", "name": "Girujan Clay", "topDepth": 0, "baseDepth": 790, "lithology": "Grey-green clay, silty intervals", "color": "#6B7280" },
+    { "id": "f2", "name": "Tipam Sandstone", "topDepth": 790, "baseDepth": 1840, "lithology": "Medium-grained sandstone, minor shale intercalations", "color": "#D97706" },
+    { "id": "f3", "name": "Barail Group", "topDepth": 1840, "baseDepth": 3020, "lithology": "Sandstone-shale alternation, coal stringers", "color": "#059669" },
+    { "id": "f4", "name": "Kopili Shale", "topDepth": 3020, "baseDepth": 3980, "lithology": "Dark grey calcareous shale", "color": "#7C3AED" }
+  ],
+  "NKT-01": [
+    { "id": "f1", "name": "Girujan Clay", "topDepth": 0, "baseDepth": 820, "lithology": "Grey-green clay, silty intervals", "color": "#6B7280" },
+    { "id": "f2", "name": "Tipam Sandstone", "topDepth": 820, "baseDepth": 1880, "lithology": "Medium-grained sandstone, minor shale intercalations", "color": "#D97706" },
+    { "id": "f3", "name": "Barail Group", "topDepth": 1880, "baseDepth": 3100, "lithology": "Sandstone-shale alternation, coal stringers", "color": "#059669" },
+    { "id": "f4", "name": "Kopili Shale", "topDepth": 3100, "baseDepth": 3980, "lithology": "Dark grey calcareous shale, highly overpressured", "color": "#7C3AED" },
+    { "id": "f5", "name": "Sylhet Limestone", "topDepth": 3980, "baseDepth": 4350, "lithology": "Grey limestone, dolomitic, fractured", "color": "#0284C7" }
+  ],
+  "NKT-02": [
+    { "id": "f1", "name": "Girujan Clay", "topDepth": 0, "baseDepth": 805, "lithology": "Grey-green clay, silty intervals", "color": "#6B7280" },
+    { "id": "f2", "name": "Tipam Sandstone", "topDepth": 805, "baseDepth": 1860, "lithology": "Medium-grained sandstone", "color": "#D97706" },
+    { "id": "f3", "name": "Barail Group", "topDepth": 1860, "baseDepth": 3080, "lithology": "Sandstone-shale alternation, coal stringers", "color": "#059669" },
+    { "id": "f4", "name": "Kopili Shale", "topDepth": 3080, "baseDepth": 3960, "lithology": "Dark grey calcareous shale", "color": "#7C3AED" },
+    { "id": "f5", "name": "Sylhet Limestone", "topDepth": 3960, "baseDepth": 4200, "lithology": "Grey limestone, dolomitic", "color": "#0284C7" }
+  ],
+  "NKT-03": [
+    { "id": "f1", "name": "Girujan Clay", "topDepth": 0, "baseDepth": 800, "lithology": "Grey-green clay, silty intervals", "color": "#6B7280" },
+    { "id": "f2", "name": "Tipam Sandstone", "topDepth": 800, "baseDepth": 1850, "lithology": "Medium-grained sandstone", "color": "#D97706" },
+    { "id": "f3", "name": "Barail Group", "topDepth": 1850, "baseDepth": 3050, "lithology": "Sandstone-shale alternation", "color": "#059669" },
+    { "id": "f4", "name": "Kopili Shale", "topDepth": 3050, "baseDepth": 3920, "lithology": "Dark grey calcareous shale", "color": "#7C3AED" }
+  ],
+  "NKT-04": [
+    { "id": "f1", "name": "Girujan Clay", "topDepth": 0, "baseDepth": 830, "lithology": "Grey-green clay, silty intervals", "color": "#6B7280" },
+    { "id": "f2", "name": "Tipam Sandstone", "topDepth": 830, "baseDepth": 1890, "lithology": "Medium-grained sandstone", "color": "#D97706" },
+    { "id": "f3", "name": "Barail Group", "topDepth": 1890, "baseDepth": 3120, "lithology": "Sandstone-shale alternation, fractured intervals", "color": "#059669" },
+    { "id": "f4", "name": "Kopili Shale", "topDepth": 3120, "baseDepth": 4010, "lithology": "Dark grey calcareous shale", "color": "#7C3AED" },
+    { "id": "f5", "name": "Sylhet Limestone", "topDepth": 4010, "baseDepth": 4500, "lithology": "Grey limestone, dolomitic, fractured", "color": "#0284C7" }
+  ],
+  "RDG-01": [
+    { "id": "f1", "name": "Girujan Clay", "topDepth": 0, "baseDepth": 750, "lithology": "Grey-green clay, silty intervals", "color": "#6B7280" },
+    { "id": "f2", "name": "Tipam Sandstone", "topDepth": 750, "baseDepth": 1760, "lithology": "Medium-grained sandstone", "color": "#D97706" },
+    { "id": "f3", "name": "Barail Group", "topDepth": 1760, "baseDepth": 2950, "lithology": "Sandstone-shale alternation", "color": "#059669" },
+    { "id": "f4", "name": "Kopili Shale", "topDepth": 2950, "baseDepth": 3500, "lithology": "Dark grey calcareous shale", "color": "#7C3AED" }
+  ],
+  "RDG-02": [
+    { "id": "f1", "name": "Girujan Clay", "topDepth": 0, "baseDepth": 760, "lithology": "Grey-green clay, silty intervals", "color": "#6B7280" },
+    { "id": "f2", "name": "Tipam Sandstone", "topDepth": 760, "baseDepth": 1780, "lithology": "Medium-grained sandstone", "color": "#D97706" },
+    { "id": "f3", "name": "Barail Group", "topDepth": 1780, "baseDepth": 2980, "lithology": "Sandstone-shale alternation", "color": "#059669" },
+    { "id": "f4", "name": "Kopili Shale", "topDepth": 2980, "baseDepth": 3750, "lithology": "Dark grey calcareous shale", "color": "#7C3AED" }
+  ],
+  "RDG-03": [
+    { "id": "f1", "name": "Girujan Clay", "topDepth": 0, "baseDepth": 770, "lithology": "Grey-green clay, silty intervals", "color": "#6B7280" },
+    { "id": "f2", "name": "Tipam Sandstone", "topDepth": 770, "baseDepth": 1800, "lithology": "Medium-grained sandstone, cavernous zones at 1,240 m", "color": "#D97706" },
+    { "id": "f3", "name": "Barail Group", "topDepth": 1800, "baseDepth": 3000, "lithology": "Sandstone-shale alternation", "color": "#059669" },
+    { "id": "f4", "name": "Kopili Shale", "topDepth": 3000, "baseDepth": 4050, "lithology": "Dark grey calcareous shale", "color": "#7C3AED" }
+  ],
+  "HLG-01": [
+    { "id": "f1", "name": "Girujan Clay", "topDepth": 0, "baseDepth": 740, "lithology": "Grey-green clay, silty intervals", "color": "#6B7280" },
+    { "id": "f2", "name": "Tipam Sandstone", "topDepth": 740, "baseDepth": 1750, "lithology": "Medium-grained sandstone", "color": "#D97706" },
+    { "id": "f3", "name": "Barail Group", "topDepth": 1750, "baseDepth": 2920, "lithology": "Sandstone-shale alternation", "color": "#059669" },
+    { "id": "f4", "name": "Kopili Shale", "topDepth": 2920, "baseDepth": 3300, "lithology": "Dark grey calcareous shale", "color": "#7C3AED" }
+  ],
+  "HLG-02": [
+    { "id": "f1", "name": "Girujan Clay", "topDepth": 0, "baseDepth": 755, "lithology": "Grey-green clay, silty intervals", "color": "#6B7280" },
+    { "id": "f2", "name": "Tipam Sandstone", "topDepth": 755, "baseDepth": 1770, "lithology": "Medium-grained sandstone", "color": "#D97706" },
+    { "id": "f3", "name": "Barail Group", "topDepth": 1770, "baseDepth": 2960, "lithology": "Sandstone-shale alternation", "color": "#059669" },
+    { "id": "f4", "name": "Kopili Shale", "topDepth": 2960, "baseDepth": 3600, "lithology": "Dark grey calcareous shale", "color": "#7C3AED" }
+  ],
+  "LKW-01": [
+    { "id": "f1", "name": "Girujan Clay", "topDepth": 0, "baseDepth": 825, "lithology": "Grey-green clay, silty intervals", "color": "#6B7280" },
+    { "id": "f2", "name": "Tipam Sandstone", "topDepth": 825, "baseDepth": 1870, "lithology": "Medium-grained sandstone", "color": "#D97706" },
+    { "id": "f3", "name": "Barail Group", "topDepth": 1870, "baseDepth": 3080, "lithology": "Sandstone-shale alternation", "color": "#059669" },
+    { "id": "f4", "name": "Kopili Shale", "topDepth": 3080, "baseDepth": 3820, "lithology": "Dark grey calcareous shale, highly unstable", "color": "#7C3AED" },
+    { "id": "f5", "name": "Sylhet Limestone", "topDepth": 3820, "baseDepth": 4100, "lithology": "Grey limestone, dolomitic", "color": "#0284C7" }
+  ],
+  "LKW-02": [
+    { "id": "f1", "name": "Girujan Clay", "topDepth": 0, "baseDepth": 815, "lithology": "Grey-green clay, silty intervals", "color": "#6B7280" },
+    { "id": "f2", "name": "Tipam Sandstone", "topDepth": 815, "baseDepth": 1855, "lithology": "Medium-grained sandstone", "color": "#D97706" },
+    { "id": "f3", "name": "Barail Group", "topDepth": 1855, "baseDepth": 3060, "lithology": "Sandstone-shale alternation", "color": "#059669" },
+    { "id": "f4", "name": "Kopili Shale", "topDepth": 3060, "baseDepth": 3900, "lithology": "Dark grey calcareous shale", "color": "#7C3AED" },
+    { "id": "f5", "name": "Sylhet Limestone", "topDepth": 3900, "baseDepth": 4280, "lithology": "Grey limestone, dolomitic", "color": "#0284C7" }
+  ],
+  "MKM-01": [
+    { "id": "f1", "name": "Girujan Clay", "topDepth": 0, "baseDepth": 720, "lithology": "Grey-green clay, silty intervals", "color": "#6B7280" },
+    { "id": "f2", "name": "Tipam Sandstone", "topDepth": 720, "baseDepth": 1720, "lithology": "Medium-grained sandstone", "color": "#D97706" },
+    { "id": "f3", "name": "Barail Group", "topDepth": 1720, "baseDepth": 2800, "lithology": "Sandstone-shale alternation, coal stringers", "color": "#059669" }
+  ],
+  "DHJ-01": [
+    { "id": "f1", "name": "Girujan Clay", "topDepth": 0, "baseDepth": 835, "lithology": "Grey-green clay, silty intervals", "color": "#6B7280" },
+    { "id": "f2", "name": "Tipam Sandstone", "topDepth": 835, "baseDepth": 1900, "lithology": "Medium-grained sandstone", "color": "#D97706" },
+    { "id": "f3", "name": "Barail Group", "topDepth": 1900, "baseDepth": 3130, "lithology": "Sandstone-shale alternation", "color": "#059669" },
+    { "id": "f4", "name": "Kopili Shale", "topDepth": 3130, "baseDepth": 4020, "lithology": "Dark grey calcareous shale", "color": "#7C3AED" },
+    { "id": "f5", "name": "Sylhet Limestone", "topDepth": 4020, "baseDepth": 4150, "lithology": "Grey limestone, fractured, highly overpressured", "color": "#0284C7" }
+  ]
+}

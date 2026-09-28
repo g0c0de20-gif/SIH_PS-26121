@@ -1,0 +1,141 @@
+{
+  "DLJ-01": [
+    { "id": "e001", "date": "2018-04-02", "depth": 320, "eventType": "NPT", "severity": "low", "formation": "Girujan Clay", "remark": "Top drive motor failure. Rig down 8 hrs for repair.", "mitigation": "Replaced top drive motor unit. Operations resumed." },
+    { "id": "e002", "date": "2018-04-28", "depth": 950, "eventType": "Mud Loss", "severity": "medium", "formation": "Tipam Sandstone", "remark": "Partial mud losses (3 m³/hr) at 950 m. Porous Tipam sandstone zone.", "mitigation": "LCM pill pumped (30 ppb fine mica + 10 ppb graphite). Losses reduced to <0.5 m³/hr. Continued drilling." },
+    { "id": "e003", "date": "2018-05-22", "depth": 1420, "eventType": "Torque Spike", "severity": "low", "formation": "Tipam Sandstone", "remark": "Erratic torque 8–18 kN·m at coal stringer at 1,420 m. Possible BHA vibration.", "mitigation": "Reduced WOB and RPM. Reamed 3 stands. Torque stabilised at 12 kN·m." },
+    { "id": "e004", "date": "2018-06-18", "depth": 2150, "eventType": "Kick", "severity": "high", "formation": "Barail Group", "remark": "0.8 m³ gas influx detected. Pit gain 0.8 m³. SIDPP = 280 psi. SICP = 320 psi. Barail sandstone overpressure.", "mitigation": "Well shut-in BOP. Bullheaded with kill mud (MW 1.44 SG). Barrit method used. Kill successful in 6 hrs." },
+    { "id": "e005", "date": "2018-07-05", "depth": 2480, "eventType": "Stuck Pipe", "severity": "medium", "formation": "Barail Group", "remark": "Pipe stuck (key seating) while pulling out. 15 m overpull.", "mitigation": "Worked pipe. Spotted surfactant pill. Freed after 4 hrs. No fish left." },
+    { "id": "e006", "date": "2018-08-12", "depth": 3200, "eventType": "Mud Loss", "severity": "medium", "formation": "Kopili Shale", "remark": "Seepage losses (1.2 m³/hr) in fractured Kopili zone. No cavings.", "mitigation": "Increased mud viscosity. Pumped LCM sweep. Losses controlled." }
+  ],
+  "DLJ-02": [
+    { "id": "e007", "date": "2019-07-10", "depth": 1100, "eventType": "Mud Loss", "severity": "medium", "formation": "Tipam Sandstone", "remark": "Partial losses 4 m³/hr at 1,100 m. High porosity Tipam sandstone.", "mitigation": "LCM treatment with medium nut plug + fine mica. Losses reduced to seepage." },
+    { "id": "e008", "date": "2019-08-05", "depth": 1380, "eventType": "Mud Loss", "severity": "high", "formation": "Tipam Sandstone", "remark": "Severe losses 18 m³/hr at 1,380 m. Total lost circulation. Pumps off.", "mitigation": "Cement plug set at loss zone. Sidetracked. LCM mix (coarse+medium) pumped. Second cement plug. Losses controlled after 36 hrs." },
+    { "id": "e009", "date": "2019-09-22", "depth": 2200, "eventType": "Torque Spike", "severity": "low", "formation": "Barail Group", "remark": "Torque peaks at coal stringers 2,180–2,240 m.", "mitigation": "Reaming pass. Optimised mud weight. Normal drilling resumed." },
+    { "id": "e010", "date": "2019-11-08", "depth": 2850, "eventType": "NPT", "severity": "low", "formation": "Barail Group", "remark": "MWD tool failure. Fishing attempted. Tool retrieved after 22 hrs.", "mitigation": "Replaced MWD tool. Operations resumed." }
+  ],
+  "DLJ-03": [
+    { "id": "e011", "date": "2020-02-05", "depth": 850, "eventType": "Torque Spike", "severity": "low", "formation": "Tipam Sandstone", "remark": "Torque spikes at Girujan-Tipam transition (820–870 m). BHA vibration.", "mitigation": "Reduced RPM to 90. Added 10 m³ lubricant. Spikes eliminated." },
+    { "id": "e012", "date": "2020-03-18", "depth": 1680, "eventType": "NPT", "severity": "low", "formation": "Tipam Sandstone", "remark": "Drill bit wear above threshold. Pulled for bit change.", "mitigation": "New PDC bit run. Achieved 12 m/hr ROP on resume." }
+  ],
+  "DLJ-04": [
+    { "id": "e013", "date": "2020-10-05", "depth": 880, "eventType": "Mud Loss", "severity": "medium", "formation": "Tipam Sandstone", "remark": "Partial losses (5 m³/hr) in Tipam. Highly permeable zone.", "mitigation": "LCM pill with fine+medium mica. Losses controlled in 6 hrs." },
+    { "id": "e014", "date": "2020-11-28", "depth": 2440, "eventType": "Mud Loss", "severity": "medium", "formation": "Barail Group", "remark": "Seepage losses in fractured Barail sandstone. 2.5 m³/hr.", "mitigation": "Upped LCM concentration in mud system. Losses subsided." },
+    { "id": "e015", "date": "2021-01-15", "depth": 3120, "eventType": "Stuck Pipe", "severity": "high", "formation": "Barail Group", "remark": "Pipe stuck in Barail shale interbed at 3,120 m. Torsional sticking. 45 kN overpull. 28 hrs NPT.", "mitigation": "Spotted large-volume oil pill (15 m³). Jar down. Pipe freed. BHA inspection done. Reamed to bottom." },
+    { "id": "e016", "date": "2021-02-22", "depth": 3580, "eventType": "Kick", "severity": "medium", "formation": "Kopili Shale", "remark": "Small gas influx 0.4 m³. SIDPP=180 psi. Kopili overpressure gradient.", "mitigation": "Shut-in. Weighted kill mud 1.46 SG pumped. Driller's method. 4 hrs." }
+  ],
+  "DLJ-05": [
+    { "id": "e017", "date": "2021-05-12", "depth": 1200, "eventType": "Mud Loss", "severity": "medium", "formation": "Tipam Sandstone", "remark": "Losses at 1,200 m. Permeable Tipam. 3.5 m³/hr.", "mitigation": "Nut plug + graphite LCM. Normal drilling resumed in 8 hrs." },
+    { "id": "e018", "date": "2021-07-04", "depth": 2890, "eventType": "Kick", "severity": "high", "formation": "Barail Group", "remark": "Gas kick at 2,890 m Barail sandstone. Pit gain 1.2 m³. SIDPP=310 psi. SICP=365 psi.", "mitigation": "Immediate shut-in. BOP closed. Well killed with 1.42 SG mud using driller's method. 6 hrs shut-in." },
+    { "id": "e019", "date": "2021-08-30", "depth": 3350, "eventType": "NPT", "severity": "low", "formation": "Kopili Shale", "remark": "Shaker screen failure. Replaced on surface. 4 hrs NPT.", "mitigation": "Screens replaced. Solids control restored." }
+  ],
+  "NKT-01": [
+    { "id": "e020", "date": "2017-12-08", "depth": 1050, "eventType": "Mud Loss", "severity": "medium", "formation": "Tipam Sandstone", "remark": "Partial losses 6 m³/hr in Tipam sandstone.", "mitigation": "LCM sweep with walnut shell + mica. Losses controlled." },
+    { "id": "e021", "date": "2018-01-25", "depth": 2450, "eventType": "Mud Loss", "severity": "high", "formation": "Barail Group", "remark": "Severe losses (22 m³/hr) in fractured Barail zone at 2,450 m. Total loss. Mud returns lost.", "mitigation": "85 m³ LCM (coarse+fine) pumped. Cement squeeze at loss zone. Losses reduced to seepage after 48 hrs." },
+    { "id": "e022", "date": "2018-02-18", "depth": 3180, "eventType": "Kick", "severity": "high", "formation": "Kopili Shale", "remark": "Significant gas influx 1.8 m³ in Kopili Shale. SIDPP=480 psi. Formation pressure gradient 1.48 SG equivalent.", "mitigation": "Well shut-in. Bullheading with 1.52 SG kill mud. Took 12 hrs. Additional casing string recommended." },
+    { "id": "e023", "date": "2018-03-20", "depth": 4100, "eventType": "Kick", "severity": "critical", "formation": "Sylhet Limestone", "remark": "Gas influx in Sylhet Limestone at 4,100 m. Pit gain 2.4 m³. SIDPP=680 psi. Fractured, overpressured reservoir.", "mitigation": "Emergency shut-in. Heavyweight kill mud (1.62 SG). 18 hrs kill operations. BOP tested post-kill. Extra casing string run." }
+  ],
+  "NKT-02": [
+    { "id": "e024", "date": "2018-09-15", "depth": 920, "eventType": "Mud Loss", "severity": "low", "formation": "Tipam Sandstone", "remark": "Minor seepage losses 1 m³/hr.", "mitigation": "Fine LCM added to system. Self-healing after 2 hrs." },
+    { "id": "e025", "date": "2018-10-28", "depth": 2100, "eventType": "Cementing Issue", "severity": "medium", "formation": "Barail Group", "remark": "Poor CBL across 2,050–2,150 m on 9⅝\" casing. Gas migration risk. Micro-annulus suspected.", "mitigation": "Squeeze cementing performed. 4 m³ cement squeezed. Post-squeeze CBL shows improved bond." },
+    { "id": "e026", "date": "2018-12-05", "depth": 3200, "eventType": "Torque Spike", "severity": "low", "formation": "Kopili Shale", "remark": "Intermittent torque spikes in Kopili. Possible balling.", "mitigation": "Increased flow rate. Reaming passes. Returned to normal." }
+  ],
+  "NKT-03": [
+    { "id": "e027", "date": "2020-01-08", "depth": 2450, "eventType": "NPT", "severity": "medium", "formation": "Barail Group", "remark": "MWD/LWD tool failure at 2,450 m. Fishing required. 18 hrs NPT.", "mitigation": "Tool retrieved on fishing run. New MWD deployed. Operations resumed." },
+    { "id": "e028", "date": "2020-02-20", "depth": 3100, "eventType": "Torque Spike", "severity": "low", "formation": "Kopili Shale", "remark": "Torque fluctuations in Kopili shale. Drag issues.", "mitigation": "Lubricant sweeps. Wiper trips performed. Problem resolved." }
+  ],
+  "NKT-04": [
+    { "id": "e029", "date": "2021-08-10", "depth": 1240, "eventType": "Mud Loss", "severity": "high", "formation": "Tipam Sandstone", "remark": "Severe losses at 1,240 m. High permeability Tipam channel sand. 28 m³/hr.", "mitigation": "Lost circulation material mix. Cement plug set. Operations continued after 40 hrs." },
+    { "id": "e030", "date": "2021-09-18", "depth": 2440, "eventType": "Mud Loss", "severity": "high", "formation": "Barail Group", "remark": "Total losses at 2,440 m fractured Barail zone. Cavernous loss zone confirmed by caliper.", "mitigation": "85 m³ LCM pumped. Cement squeeze at 2,435–2,455 m. Drill water used during cure time." },
+    { "id": "e031", "date": "2021-10-25", "depth": 3420, "eventType": "Mud Loss", "severity": "critical", "formation": "Barail Group", "remark": "Total lost circulation at 3,420 m in fractured Barail sandstone. 85 m³ LCM material pumped over 3 days. Cavernous zone.", "mitigation": "Multiple cement plugs. Wellbore strengthening treatment. 72 hrs to regain circulation. Casing set above loss zone." },
+    { "id": "e032", "date": "2021-12-02", "depth": 4200, "eventType": "Kick", "severity": "high", "formation": "Sylhet Limestone", "remark": "Gas influx in Sylhet Limestone. Pit gain 1.5 m³.", "mitigation": "Shut-in BOP. Kill mud 1.58 SG. 8 hrs kill." }
+  ],
+  "RDG-01": [
+    { "id": "e033", "date": "2018-06-20", "depth": 1150, "eventType": "Mud Loss", "severity": "low", "formation": "Tipam Sandstone", "remark": "Minor seepage losses in Tipam.", "mitigation": "Standard LCM sweep. Self-healing." },
+    { "id": "e034", "date": "2018-08-15", "depth": 2980, "eventType": "Stuck Pipe", "severity": "medium", "formation": "Barail Group", "remark": "Differential sticking in Barail shale at 2,980 m. 30 kN overpull. Pipe motionless for 2 hrs.", "mitigation": "Spotted 5 m³ oil pill. Applied slow rotation with top drive. Pipe freed after 14 hrs. Backreamed to surface." }
+  ],
+  "RDG-02": [
+    { "id": "e035", "date": "2019-04-08", "depth": 1680, "eventType": "Torque Spike", "severity": "low", "formation": "Tipam Sandstone", "remark": "Torque spikes at 1,680 m in Tipam interbeds. BHA vibrations.", "mitigation": "Reduced WOB. Reaming pass. Problem resolved." },
+    { "id": "e036", "date": "2019-05-22", "depth": 2450, "eventType": "NPT", "severity": "low", "formation": "Barail Group", "remark": "Pump liner failure. Surface repair. 6 hrs NPT.", "mitigation": "Liner replaced. Operations resumed at full capacity." }
+  ],
+  "RDG-03": [
+    { "id": "e037", "date": "2022-03-15", "depth": 1240, "eventType": "Mud Loss", "severity": "critical", "formation": "Tipam Sandstone", "remark": "Total lost circulation at 1,240 m in cavernous Tipam zone. No returns. Confirmed lost returns on surface.", "mitigation": "Cement plug set. Sidetrack drilled. Second cement plug and LCM treatment. 60 hrs to restore partial returns." },
+    { "id": "e038", "date": "2022-05-02", "depth": 2200, "eventType": "Mud Loss", "severity": "medium", "formation": "Barail Group", "remark": "Partial losses (8 m³/hr) in Barail fracture zone.", "mitigation": "Bridging agent + graphite LCM pill. Losses reduced to 1 m³/hr. Continued drilling." },
+    { "id": "e039", "date": "2022-06-18", "depth": 3050, "eventType": "Stuck Pipe", "severity": "medium", "formation": "Kopili Shale", "remark": "Packoff while tripping in Kopili shale. 25 kN overpull.", "mitigation": "Worked pipe with circulation. 8 hrs to free." }
+  ],
+  "HLG-01": [
+    { "id": "e040", "date": "2019-10-05", "depth": 1250, "eventType": "Mud Loss", "severity": "low", "formation": "Tipam Sandstone", "remark": "Minor losses 1.5 m³/hr in Tipam.", "mitigation": "Fine LCM sweep. Continued drilling." },
+    { "id": "e041", "date": "2019-11-22", "depth": 2340, "eventType": "Kick", "severity": "medium", "formation": "Barail Group", "remark": "Gas shows in Barail sandstone. Pit gain 0.6 m³. SIDPP=180 psi.", "mitigation": "Mud weight increased to 1.38 SG. Well monitored. No full shut-in required." },
+    { "id": "e042", "date": "2019-12-30", "depth": 2890, "eventType": "Torque Spike", "severity": "low", "formation": "Kopili Shale", "remark": "Erratic torque in Kopili shale. Clay balling suspected.", "mitigation": "PHPA/KCl mud pill swept. Reamed. Problem resolved." }
+  ],
+  "HLG-02": [
+    { "id": "e043", "date": "2020-12-15", "depth": 2100, "eventType": "NPT", "severity": "low", "formation": "Barail Group", "remark": "BHA change required after abnormal wear on stabiliser blade.", "mitigation": "Pulled to surface. New BHA run. 10 hrs NPT." }
+  ],
+  "LKW-01": [
+    { "id": "e044", "date": "2017-08-10", "depth": 1020, "eventType": "Mud Loss", "severity": "medium", "formation": "Tipam Sandstone", "remark": "Losses 5 m³/hr in Tipam porous zone.", "mitigation": "LCM treatment with medium mica + calcium carbonate. Continued." },
+    { "id": "e045", "date": "2017-09-22", "depth": 2440, "eventType": "Mud Loss", "severity": "medium", "formation": "Barail Group", "remark": "Fracture-induced losses 8 m³/hr in upper Barail.", "mitigation": "Bridging agent squeeze. Losses controlled to seepage." },
+    { "id": "e046", "date": "2017-10-28", "depth": 3520, "eventType": "Stuck Pipe", "severity": "high", "formation": "Kopili Shale", "remark": "Pipe stuck in Kopili shale (differential sticking). High ECD. 45 kN overpull. BHA immobile.", "mitigation": "Initiated KCl/Polymer mud system change. Oil pill spotted. Slow rotation. Freed after 22 hrs. Wellbore stabilisation measures adopted." },
+    { "id": "e047", "date": "2017-11-30", "depth": 3640, "eventType": "Stuck Pipe", "severity": "high", "formation": "Kopili Shale", "remark": "Second stuck pipe in Kopili interval (3,640 m). Shale swelling. 32 kN overpull.", "mitigation": "PHPA/KCl mud. Large-volume spotting. 18 hrs to free. Casing plan revised to include extra string." }
+  ],
+  "LKW-02": [
+    { "id": "e048", "date": "2021-02-05", "depth": 2440, "eventType": "Mud Loss", "severity": "medium", "formation": "Barail Group", "remark": "Losses 6 m³/hr in Barail fracture zone at 2,440 m.", "mitigation": "LCM treatment. Two-stage cementing planned for casing." },
+    { "id": "e049", "date": "2021-04-12", "depth": 3200, "eventType": "Cementing Issue", "severity": "medium", "formation": "Kopili Shale", "remark": "Cement returns lost during 9⅝\" casing cementing at 2,300–2,350 m. Micro-annulus suspected.", "mitigation": "Squeeze cement job performed. CBL post-job showed acceptable bond." },
+    { "id": "e050", "date": "2021-06-20", "depth": 3850, "eventType": "Kick", "severity": "medium", "formation": "Kopili Shale", "remark": "Gas influx 0.7 m³ in Kopili. SIDPP=210 psi.", "mitigation": "Shut-in. Weighted mud (1.46 SG). 5 hrs kill." }
+  ],
+  "MKM-01": [
+    { "id": "e051", "date": "2019-01-08", "depth": 1480, "eventType": "Torque Spike", "severity": "low", "formation": "Tipam Sandstone", "remark": "Torque spikes at coal stringers in Tipam.", "mitigation": "Reaming. Problem resolved." },
+    { "id": "e052", "date": "2019-02-20", "depth": 2200, "eventType": "Torque Spike", "severity": "low", "formation": "Barail Group", "remark": "Coal stringers in Barail causing intermittent torque spikes.", "mitigation": "Optimised drilling parameters. Completed drilling without issue." }
+  ],
+  "DHJ-01": [
+    { "id": "e053", "date": "2022-09-05", "depth": 1050, "eventType": "Mud Loss", "severity": "low", "formation": "Tipam Sandstone", "remark": "Minor losses in Tipam.", "mitigation": "LCM sweep. Continued." },
+    { "id": "e054", "date": "2022-10-22", "depth": 2450, "eventType": "Mud Loss", "severity": "medium", "formation": "Barail Group", "remark": "Losses 7 m³/hr at 2,450 m Barail zone.", "mitigation": "LCM treatment. Losses controlled." },
+    { "id": "e055", "date": "2022-11-28", "depth": 3200, "eventType": "Torque Spike", "severity": "medium", "formation": "Kopili Shale", "remark": "High torque (22 kN·m) in Kopili shale. Balling suspected.", "mitigation": "PHPA sweep. Reaming trips. Stabilised." },
+    { "id": "e056", "date": "2023-01-08", "depth": 3980, "eventType": "Kick", "severity": "critical", "formation": "Sylhet Limestone", "remark": "Gas kick in Sylhet Limestone at 3,980 m. Pit gain 2.1 m³. SIDPP=720 psi. Highly overpressured fractured reservoir. Emergency BOP closure.", "mitigation": "Emergency well control. 1.65 SG kill mud bullheaded. 12 hrs kill operations. All personnel accounted for. Well stabilised." }
+  ],
+  "DML-01": [
+    { "id": "e057", "date": "2020-05-14", "depth": 1180, "eventType": "Mud Loss", "severity": "medium", "formation": "Tipam Sandstone", "remark": "Fractured foothill sandstone with seepage losses 4 m³/hr.", "mitigation": "Pumped 25 ppb fine mica LCM pill. Losses stabilized." },
+    { "id": "e058", "date": "2020-07-22", "depth": 2840, "eventType": "Torque Spike", "severity": "low", "formation": "Barail Group", "remark": "BHA drag across coal stringers.", "mitigation": "Optimized WOB and added lubricant." }
+  ],
+  "KHR-01": [
+    { "id": "e059", "date": "2019-11-18", "depth": 1420, "eventType": "Kick", "severity": "high", "formation": "Tipam Sandstone", "remark": "Shallow high-pressure gas pocket in Kharsang thrust fault. Pit gain 1.1 m³.", "mitigation": "BOP shut-in. Killed with 1.38 SG mud." },
+    { "id": "e060", "date": "2020-01-15", "depth": 2980, "eventType": "Mud Loss", "severity": "medium", "formation": "Barail Group", "remark": "Partial loss in fault fracture zone.", "mitigation": "Medium nut plug LCM pill spotted." }
+  ],
+  "KMC-01": [
+    { "id": "e061", "date": "2021-05-10", "depth": 3980, "eventType": "Kick", "severity": "critical", "formation": "Sylhet Limestone", "remark": "Overpressured Sylhet gas kick at 3,980 m. SIDPP=650 psi. Emergency well control.", "mitigation": "Bullheaded 1.50 SG kill mud. Re-established hydrostatic head in 14 hrs." }
+  ],
+  "MNB-01": [
+    { "id": "e062", "date": "2022-02-18", "depth": 1850, "eventType": "Torque Spike", "severity": "low", "formation": "Barail Group", "remark": "Interbedded hard sands causing minor torque variation.", "mitigation": "Reamed section, adjusted drilling parameters." }
+  ],
+  "TZT-01": [
+    { "id": "e063", "date": "2019-04-12", "depth": 3250, "eventType": "Stuck Pipe", "severity": "high", "formation": "Kopili Shale", "remark": "Naga thrust belt complex. Dipping tectonic shale caused differential sticking. 40 kN overpull.", "mitigation": "Spotted surfactant oil pill and worked pipe. Freed after 16 hrs." }
+  ],
+  "CHM-01": [
+    { "id": "e064", "date": "2020-10-14", "depth": 3450, "eventType": "Stuck Pipe", "severity": "critical", "formation": "Kopili Shale", "remark": "Severe hole sloughing and pack-off in fractured Kopili shale. Total drillstring stall.", "mitigation": "High-density polymer sweep, backreamed out. Revised casing depth." }
+  ],
+  "BAR-01": [
+    { "id": "e065", "date": "2018-12-20", "depth": 3240, "eventType": "Kick", "severity": "high", "formation": "Upper Bhuban", "remark": "Gas kick in overpressured Upper Bhuban sandstone. Pit gain 1.4 m³, SIDPP=420 psi.", "mitigation": "Well shut-in. Circulated out influx with 1.45 SG mud using Wait & Weight method." }
+  ],
+  "ROK-01": [
+    { "id": "e066", "date": "2019-06-25", "depth": 1820, "eventType": "Mud Loss", "severity": "medium", "formation": "Bokabil Sandstone", "remark": "Partial mud loss 5.5 m³/hr in fractured Bokabil gas sand.", "mitigation": "Pumped 20 ppb coarse graphite LCM pill. Regained circulation." }
+  ],
+  "AGT-01": [
+    { "id": "e067", "date": "2021-09-15", "depth": 2100, "eventType": "Torque Spike", "severity": "low", "formation": "Tipam Sandstone", "remark": "Intermittent string vibration and minor drag.", "mitigation": "Rotated and reamed stand. Parameters stabilized." }
+  ],
+  "KLS-01": [
+    { "id": "e068", "date": "2019-03-22", "depth": 3610, "eventType": "Stuck Pipe", "severity": "critical", "formation": "Surma Group", "remark": "Steep 45° tectonic dip and high horizontal stress caused severe borehole ovalization and mechanical pipe sticking.", "mitigation": "Heavy jar action and acid wash pill. Sidetracked interval with steerable motor." }
+  ],
+  "BKH-01": [
+    { "id": "e069", "date": "2021-06-08", "depth": 2950, "eventType": "Mud Loss", "severity": "high", "formation": "Middle Bhuban", "remark": "Major loss zone in tectonic fault breccia. Lost 16 m³/hr drilling fluid.", "mitigation": "Squeezed 15 m³ thixotropic cement plug. Re-drilled after 24 hrs curing." }
+  ],
+  "JRB-01": [
+    { "id": "e070", "date": "2020-05-18", "depth": 2980, "eventType": "Kick", "severity": "high", "formation": "Bhuban Shale", "remark": "High-pressure gas influx in fractured fault zone. SIDPP=380 psi.", "mitigation": "Shut-in and weighted system up to 1.48 SG. Killed successfully in 8 hrs." }
+  ],
+  "IMP-01": [
+    { "id": "e071", "date": "2022-10-12", "depth": 2400, "eventType": "Torque Spike", "severity": "medium", "formation": "Disang Flysch", "remark": "Reacting swelling shales causing tight hole and high rotating torque.", "mitigation": "Inhibited mud with 7% KCl and PHPA. Wiper trip completed." }
+  ],
+  "JNT-01": [
+    { "id": "e072", "date": "2021-01-10", "depth": 1950, "eventType": "Torque Spike", "severity": "low", "formation": "Sylhet Limestone", "remark": "Hard chert nodules in limestone bed causing bit chatter.", "mitigation": "Reduced RPM to 80, adjusted WOB." }
+  ],
+  "DHK-01": [
+    { "id": "e073", "date": "2022-02-14", "depth": 2150, "eventType": "Mud Loss", "severity": "medium", "formation": "Sylhet Limestone", "remark": "Cavernous limestone loss zone (8 m³/hr loss rate).", "mitigation": "Spotted bentonite-diesel oil (BDO) gunk squeeze. Losses sealed." }
+  ]
+}
