@@ -1,7 +1,7 @@
 # eRTMAC-NWIS — Nearby Wells Intelligence System
 
 > **AI-Powered Offset Well Decision Support for Oil India Limited**  
-> Hackathon Prototype — Upper Assam Basin (Duliajan/Naharkatiya Area)
+> Prototype — Upper Assam Basin (Duliajan/Naharkatiya Area)
 
 ---
 
